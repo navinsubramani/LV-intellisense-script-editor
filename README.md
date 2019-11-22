@@ -1,3 +1,6 @@
+# This work is paused as there is already a good work done by Jaime @ https://github.com/analogdevicesinc/LabVIEW-Scripting-UI-Library
+
+
 # LV-IntelliSense-script-editor,
 
 1. An option to make any string control with a IntelliSense option. 
